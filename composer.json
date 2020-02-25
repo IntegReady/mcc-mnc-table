@@ -1,0 +1,11 @@
+{
+    "name": "integready/mcc-mnc-table",
+    "description": "MCC-MNC Table",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "integready",
+            "email": "integready@gmail.com"
+        }
+    ]
+}
